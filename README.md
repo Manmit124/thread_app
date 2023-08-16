@@ -32,8 +32,7 @@ Zod: A TypeScript-first library for data validation, ensuring data integrity.
 React Hook Form: Simplifies form management and validation for a smooth user experience.
 
 Deployment
-ThreadWeb can be deployed on a  vercel live environment for users to experience threaded conversations:
-https://thread-app-nine.vercel.app/
+ThreadWeb can be deployed to a live environment for users to experience threaded conversations:
 
 Clone the project repository.
 Set up the necessary environment variables for configuration.
